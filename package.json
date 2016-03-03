@@ -1,6 +1,6 @@
 {
   "name": "hapi-default-payload",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hapi plugin to default the request payload to an empty object",
   "main": "lib/index.js",
   "scripts": {
@@ -24,8 +24,7 @@
     "url": "https://github.com/lob/hapi-default-payload/issues"
   },
   "homepage": "https://github.com/lob/hapi-default-payload",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^1.10.3",
